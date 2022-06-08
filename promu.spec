@@ -31,5 +31,5 @@ install -D -m 755 %{name}-%{version} %{buildroot}%{_bindir}/promu
 %{_bindir}/promu
 
 %changelog
-* Tue Dec 16 2020 yangzhao <yangzhao1@kylinos.cn> - 0.7.0-1
+* Wed Dec 16 2020 yangzhao <yangzhao1@kylinos.cn> - 0.7.0-1
 - Init project promu
